@@ -1,6 +1,8 @@
 # 2DShooter
 ### This is a personal project I'm working on, so far I've made:
 
+[Try game here](https://a-patrick-n1.github.io/2DShooter/)
+
 + classes for sprites
 + *schmovement* using wasd
 + **shooting** using spacebar
